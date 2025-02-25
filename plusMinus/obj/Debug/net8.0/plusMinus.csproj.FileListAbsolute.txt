@@ -1,0 +1,14 @@
+/opt/c_sharp/plusMinus/bin/Debug/net8.0/plusMinus
+/opt/c_sharp/plusMinus/bin/Debug/net8.0/plusMinus.deps.json
+/opt/c_sharp/plusMinus/bin/Debug/net8.0/plusMinus.runtimeconfig.json
+/opt/c_sharp/plusMinus/bin/Debug/net8.0/plusMinus.dll
+/opt/c_sharp/plusMinus/bin/Debug/net8.0/plusMinus.pdb
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.AssemblyInfoInputs.cache
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.AssemblyInfo.cs
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.csproj.CoreCompileInputs.cache
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.dll
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/refint/plusMinus.dll
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.pdb
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/plusMinus.genruntimeconfig.cache
+/opt/c_sharp/plusMinus/obj/Debug/net8.0/ref/plusMinus.dll

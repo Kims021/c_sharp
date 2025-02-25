@@ -1,0 +1,14 @@
+/opt/c_sharp/miniMaxSum/bin/Debug/net8.0/miniMaxSum
+/opt/c_sharp/miniMaxSum/bin/Debug/net8.0/miniMaxSum.deps.json
+/opt/c_sharp/miniMaxSum/bin/Debug/net8.0/miniMaxSum.runtimeconfig.json
+/opt/c_sharp/miniMaxSum/bin/Debug/net8.0/miniMaxSum.dll
+/opt/c_sharp/miniMaxSum/bin/Debug/net8.0/miniMaxSum.pdb
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.AssemblyInfoInputs.cache
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.AssemblyInfo.cs
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.csproj.CoreCompileInputs.cache
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.dll
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/refint/miniMaxSum.dll
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.pdb
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/miniMaxSum.genruntimeconfig.cache
+/opt/c_sharp/miniMaxSum/obj/Debug/net8.0/ref/miniMaxSum.dll
