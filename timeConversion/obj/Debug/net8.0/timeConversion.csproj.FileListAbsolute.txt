@@ -1,0 +1,15 @@
+/opt/c_sharp_learning/c_sharp/timeConversion/bin/Debug/net8.0/timeConversion
+/opt/c_sharp_learning/c_sharp/timeConversion/bin/Debug/net8.0/timeConversion.deps.json
+/opt/c_sharp_learning/c_sharp/timeConversion/bin/Debug/net8.0/timeConversion.runtimeconfig.json
+/opt/c_sharp_learning/c_sharp/timeConversion/bin/Debug/net8.0/timeConversion.dll
+/opt/c_sharp_learning/c_sharp/timeConversion/bin/Debug/net8.0/timeConversion.pdb
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.AssemblyInfoInputs.cache
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.AssemblyInfo.cs
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.csproj.CoreCompileInputs.cache
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.sourcelink.json
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.dll
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/refint/timeConversion.dll
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.pdb
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/timeConversion.genruntimeconfig.cache
+/opt/c_sharp_learning/c_sharp/timeConversion/obj/Debug/net8.0/ref/timeConversion.dll
