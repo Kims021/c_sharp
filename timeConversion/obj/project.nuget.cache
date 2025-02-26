@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0RdPY0PF45QIisjtvi9R+9buzDJVIhGT0HWTFAKwwLbp9GCD0BYCcSYYL3g5Cowk/2f+d2MR3AZP4/JnJFbS6w==",
+  "dgSpecHash": "WMT5M05aqMOMbINnH2arxV2/9+c1msIKV3MpX6scXnMLIDXI/MN8MtkBf4sYM1uFNdPlQJjziMbYp2Jt+LHNwg==",
   "success": true,
-  "projectFilePath": "/opt/c_sharp_learning/c_sharp/timeConversion/timeConversion.csproj",
+  "projectFilePath": "/opt/c_sharp/timeConversion/timeConversion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

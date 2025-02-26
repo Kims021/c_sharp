@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = timeConversion
-build_property.ProjectDir = /opt/c_sharp_learning/c_sharp/timeConversion/
+build_property.ProjectDir = /opt/c_sharp/timeConversion/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

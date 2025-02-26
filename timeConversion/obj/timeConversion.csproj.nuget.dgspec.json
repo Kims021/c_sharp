@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/opt/c_sharp_learning/c_sharp/timeConversion/timeConversion.csproj": {}
+    "/opt/c_sharp/timeConversion/timeConversion.csproj": {}
   },
   "projects": {
-    "/opt/c_sharp_learning/c_sharp/timeConversion/timeConversion.csproj": {
+    "/opt/c_sharp/timeConversion/timeConversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/opt/c_sharp_learning/c_sharp/timeConversion/timeConversion.csproj",
+        "projectUniqueName": "/opt/c_sharp/timeConversion/timeConversion.csproj",
         "projectName": "timeConversion",
-        "projectPath": "/opt/c_sharp_learning/c_sharp/timeConversion/timeConversion.csproj",
+        "projectPath": "/opt/c_sharp/timeConversion/timeConversion.csproj",
         "packagesPath": "/home/kims/.nuget/packages/",
-        "outputPath": "/opt/c_sharp_learning/c_sharp/timeConversion/obj/",
+        "outputPath": "/opt/c_sharp/timeConversion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kims/.nuget/NuGet/NuGet.Config"

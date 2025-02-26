@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("timeConversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a078b19068ba7c90d068d668ea01c1e2928caf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac91195e43a6be358f86e41a59c32b6db1ce806")]
 [assembly: System.Reflection.AssemblyProductAttribute("timeConversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("timeConversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
