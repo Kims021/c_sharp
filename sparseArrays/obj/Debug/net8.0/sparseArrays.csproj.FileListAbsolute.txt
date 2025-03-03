@@ -1,0 +1,15 @@
+/opt/c_sharp/sparseArrays/bin/Debug/net8.0/sparseArrays
+/opt/c_sharp/sparseArrays/bin/Debug/net8.0/sparseArrays.deps.json
+/opt/c_sharp/sparseArrays/bin/Debug/net8.0/sparseArrays.runtimeconfig.json
+/opt/c_sharp/sparseArrays/bin/Debug/net8.0/sparseArrays.dll
+/opt/c_sharp/sparseArrays/bin/Debug/net8.0/sparseArrays.pdb
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.AssemblyInfoInputs.cache
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.AssemblyInfo.cs
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.csproj.CoreCompileInputs.cache
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.sourcelink.json
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.dll
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/refint/sparseArrays.dll
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.pdb
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/sparseArrays.genruntimeconfig.cache
+/opt/c_sharp/sparseArrays/obj/Debug/net8.0/ref/sparseArrays.dll

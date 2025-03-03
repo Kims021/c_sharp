@@ -14,11 +14,11 @@ Here are the problems I have solved as part of the preparation kit:
 
 2. [Mini-Max Sum](#) - Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
 
-2. [Time Conversion](#) - Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
+3. [Time Conversion](#) - Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
 Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
 - 12:00:00PM on a 12-hour clock is 12:00:00 on a 24-hour clock.
 
-(Feel free to replace "Problem Name 1" with the actual problem name and a short description of each.)
+4. [Sparse Arrays](#) - There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
 
 ## Problem Solving Approach
 
