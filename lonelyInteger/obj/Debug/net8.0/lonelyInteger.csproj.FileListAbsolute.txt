@@ -1,0 +1,15 @@
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.AssemblyInfoInputs.cache
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.AssemblyInfo.cs
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.csproj.CoreCompileInputs.cache
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.sourcelink.json
+/opt/c_sharp/lonelyInteger/bin/Debug/net8.0/lonelyInteger
+/opt/c_sharp/lonelyInteger/bin/Debug/net8.0/lonelyInteger.deps.json
+/opt/c_sharp/lonelyInteger/bin/Debug/net8.0/lonelyInteger.runtimeconfig.json
+/opt/c_sharp/lonelyInteger/bin/Debug/net8.0/lonelyInteger.dll
+/opt/c_sharp/lonelyInteger/bin/Debug/net8.0/lonelyInteger.pdb
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.dll
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/refint/lonelyInteger.dll
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.pdb
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/lonelyInteger.genruntimeconfig.cache
+/opt/c_sharp/lonelyInteger/obj/Debug/net8.0/ref/lonelyInteger.dll
