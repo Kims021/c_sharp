@@ -1,0 +1,15 @@
+/opt/c_sharp/diagonalDifference/bin/Debug/net8.0/diagonalDifference
+/opt/c_sharp/diagonalDifference/bin/Debug/net8.0/diagonalDifference.deps.json
+/opt/c_sharp/diagonalDifference/bin/Debug/net8.0/diagonalDifference.runtimeconfig.json
+/opt/c_sharp/diagonalDifference/bin/Debug/net8.0/diagonalDifference.dll
+/opt/c_sharp/diagonalDifference/bin/Debug/net8.0/diagonalDifference.pdb
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.AssemblyInfoInputs.cache
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.AssemblyInfo.cs
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.csproj.CoreCompileInputs.cache
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.sourcelink.json
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.dll
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/refint/diagonalDifference.dll
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.pdb
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/diagonalDifference.genruntimeconfig.cache
+/opt/c_sharp/diagonalDifference/obj/Debug/net8.0/ref/diagonalDifference.dll
