@@ -20,6 +20,15 @@ Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
 
 4. [Sparse Arrays](#) - There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
 
+5. [Lonely Integer](#) - Given an array of integers, where all elements but one occur twice, find the unique element.
+
+    Example
+    a = [1,2,3,5,3,2,1]
+    The unique element is 5.
+
+6. [Flipping Bits](#) - You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1 ) and return the result as an unsigned integer.
+
+
 ## Problem Solving Approach
 
 For each problem, I have followed a systematic approach to arrive at an efficient solution:

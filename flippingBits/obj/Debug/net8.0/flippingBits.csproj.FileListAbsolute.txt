@@ -1,0 +1,15 @@
+/opt/c_sharp/flippingBits/bin/Debug/net8.0/flippingBits
+/opt/c_sharp/flippingBits/bin/Debug/net8.0/flippingBits.deps.json
+/opt/c_sharp/flippingBits/bin/Debug/net8.0/flippingBits.runtimeconfig.json
+/opt/c_sharp/flippingBits/bin/Debug/net8.0/flippingBits.dll
+/opt/c_sharp/flippingBits/bin/Debug/net8.0/flippingBits.pdb
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.AssemblyInfoInputs.cache
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.AssemblyInfo.cs
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.csproj.CoreCompileInputs.cache
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.sourcelink.json
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.dll
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/refint/flippingBits.dll
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.pdb
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/flippingBits.genruntimeconfig.cache
+/opt/c_sharp/flippingBits/obj/Debug/net8.0/ref/flippingBits.dll
