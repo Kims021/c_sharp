@@ -58,6 +58,17 @@ For example, the square matrix arr is shown below:
 
     Note: |x| is the absolute value of x
 
+8. [Counting Sort 1](#) - You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1 ) and return the result as an unsigned integer.
+
+i	arr[i]	result
+0	1	[0, 1, 0, 0]
+1	1	[0, 2, 0, 0]
+2	3	[0, 2, 0, 1]
+3	2	[0, 2, 1, 1]
+4	1	[0, 3, 1, 1]
+
+
+
     
 
 ## Problem Solving Approach

@@ -1,0 +1,15 @@
+/opt/c_sharp/countingSort1/bin/Debug/net8.0/countingSort1
+/opt/c_sharp/countingSort1/bin/Debug/net8.0/countingSort1.deps.json
+/opt/c_sharp/countingSort1/bin/Debug/net8.0/countingSort1.runtimeconfig.json
+/opt/c_sharp/countingSort1/bin/Debug/net8.0/countingSort1.dll
+/opt/c_sharp/countingSort1/bin/Debug/net8.0/countingSort1.pdb
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.AssemblyInfoInputs.cache
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.AssemblyInfo.cs
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.csproj.CoreCompileInputs.cache
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.sourcelink.json
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.dll
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/refint/countingSort1.dll
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.pdb
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/countingSort1.genruntimeconfig.cache
+/opt/c_sharp/countingSort1/obj/Debug/net8.0/ref/countingSort1.dll
