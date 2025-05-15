@@ -10,66 +10,120 @@ HackerRank's **1-Month Preparation Kit** is designed to help you prepare for cod
 
 Here are the problems I have solved as part of the preparation kit:
 
-1. [Plus Minus](#) - Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
+1. [Plus Minus](#) - Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with places after the decimal.
 
 2. [Mini-Max Sum](#) - Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
 
 3. [Time Conversion](#) - Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
-Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
+   Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
+
 - 12:00:00PM on a 12-hour clock is 12:00:00 on a 24-hour clock.
 
-4. [Sparse Arrays](#) - There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
+4.  [Sparse Arrays](#) - There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
 
-5. [Lonely Integer](#) - Given an array of integers, where all elements but one occur twice, find the unique element.
+5.  [Lonely Integer](#) - Given an array of integers, where all elements but one occur twice, find the unique element.
 
     Example
     a = [1,2,3,5,3,2,1]
     The unique element is 5.
 
-6. [Flipping Bits](#) - You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1 ) and return the result as an unsigned integer.
+6.  [Flipping Bits](#) - You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1 ) and return the result as an unsigned integer.
 
-7. [Diagonal Difference](#) - Given a square matrix, calculate the absolute difference between the sums of its diagonals.
-For example, the square matrix arr is shown below:
+7.  [Diagonal Difference](#) - Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+    For example, the square matrix arr is shown below:
 
-    Example
-    3
-    11 2 4
-    4 5 6
-    10 8 -12
+        Example
+        3
+        11 2 4
+        4 5 6
+        10 8 -12
 
-    Sample Output: 15
+        Sample Output: 15
 
-    Explanation
+        Explanation
 
-    The primary Diagonal is:
-    11   
-      5 
-       -12
-    Sum across the primary diagonal: 11 + 5 - 12 = 4
+        The primary Diagonal is:
+        11
+          5
+           -12
+        Sum across the primary diagonal: 11 + 5 - 12 = 4
 
-    The secondary diagonal is:
+        The secondary diagonal is:
 
-         4
-      5 
-    10 
+             4
+          5
+        10
 
-    Sum across the secondary diagonal: 4 + 5 + 10 = 19
-    Difference: |4 - 19| = 15
+        Sum across the secondary diagonal: 4 + 5 + 10 = 19
+        Difference: |4 - 19| = 15
 
-    Note: |x| is the absolute value of x
+        Note: |x| is the absolute value of x
 
-8. [Counting Sort 1](#) - You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1 ) and return the result as an unsigned integer.
+8.  [Counting Sort 1](#) - You will be given a list of 32 bit unsigned integers. Flip all the bits (1 -> 0 and 0 -> 1 ) and return the result as an unsigned integer.
 
-i	arr[i]	result
-0	1	[0, 1, 0, 0]
-1	1	[0, 2, 0, 0]
-2	3	[0, 2, 0, 1]
-3	2	[0, 2, 1, 1]
-4	1	[0, 3, 1, 1]
+i arr[i] result
+0 1 [0, 1, 0, 0]
+1 1 [0, 2, 0, 0]
+2 3 [0, 2, 0, 1]
+3 2 [0, 2, 1, 1]
+4 1 [0, 3, 1, 1]
+
+9. [Pangrams](#) - A pangram is a string that contains every letter of the alphabet. Given a sentence determine whether it is a pangram in the English alphabet. Ignore case. Return either pangram or not pangram as appropriate.
+
+Example
+
+The string contains all letters in the English alphabet, so return pangram.
+
+Function Description
+
+Complete the function pangrams in the editor below. It should return the string pangram if the input string is a pangram. Otherwise, it should return not pangram.
+
+pangrams has the following parameter(s):
+
+string s: a string to test
+Returns
+
+string: either pangram or not pangram
+Input Format
+
+A single line with string .
+
+Constraints
+
+Each character of ,
+
+Sample Input
+
+Sample Input 0
+
+We promptly judged antique ivory buckles for the next prize
+
+Sample Output 0
+
+pangram
+
+Sample Explanation 0
+
+All of the letters of the alphabet are present in the string.
+
+Sample Input 1
+
+We promptly judged antique ivory buckles for the prize
+
+Sample Output 1
+
+not pangram
+
+Sample Explanation 0
+
+The string lacks an x.
 
 
 
-    
+
+
+
+
 
 ## Problem Solving Approach
 
@@ -83,4 +137,3 @@ For each problem, I have followed a systematic approach to arrive at an efficien
 ## Repository Structure
 
 The repository is organized as follows:
-

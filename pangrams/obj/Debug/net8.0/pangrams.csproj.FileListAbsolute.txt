@@ -1,0 +1,15 @@
+/opt/c_sharp/pangrams/bin/Debug/net8.0/pangrams
+/opt/c_sharp/pangrams/bin/Debug/net8.0/pangrams.deps.json
+/opt/c_sharp/pangrams/bin/Debug/net8.0/pangrams.runtimeconfig.json
+/opt/c_sharp/pangrams/bin/Debug/net8.0/pangrams.dll
+/opt/c_sharp/pangrams/bin/Debug/net8.0/pangrams.pdb
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.AssemblyInfoInputs.cache
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.AssemblyInfo.cs
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.csproj.CoreCompileInputs.cache
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.sourcelink.json
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.dll
+/opt/c_sharp/pangrams/obj/Debug/net8.0/refint/pangrams.dll
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.pdb
+/opt/c_sharp/pangrams/obj/Debug/net8.0/pangrams.genruntimeconfig.cache
+/opt/c_sharp/pangrams/obj/Debug/net8.0/ref/pangrams.dll
