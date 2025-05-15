@@ -1,0 +1,15 @@
+/opt/c_sharp/permutingTwoArrays/bin/Debug/net8.0/permutingTwoArrays
+/opt/c_sharp/permutingTwoArrays/bin/Debug/net8.0/permutingTwoArrays.deps.json
+/opt/c_sharp/permutingTwoArrays/bin/Debug/net8.0/permutingTwoArrays.runtimeconfig.json
+/opt/c_sharp/permutingTwoArrays/bin/Debug/net8.0/permutingTwoArrays.dll
+/opt/c_sharp/permutingTwoArrays/bin/Debug/net8.0/permutingTwoArrays.pdb
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.AssemblyInfoInputs.cache
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.AssemblyInfo.cs
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.csproj.CoreCompileInputs.cache
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.sourcelink.json
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.dll
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/refint/permutingTwoArrays.dll
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.pdb
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/permutingTwoArrays.genruntimeconfig.cache
+/opt/c_sharp/permutingTwoArrays/obj/Debug/net8.0/ref/permutingTwoArrays.dll
