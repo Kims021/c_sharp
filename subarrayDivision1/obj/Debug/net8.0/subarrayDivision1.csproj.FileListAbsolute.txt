@@ -1,0 +1,15 @@
+/opt/c_sharp/subarrayDivision1/bin/Debug/net8.0/subarrayDivision1
+/opt/c_sharp/subarrayDivision1/bin/Debug/net8.0/subarrayDivision1.deps.json
+/opt/c_sharp/subarrayDivision1/bin/Debug/net8.0/subarrayDivision1.runtimeconfig.json
+/opt/c_sharp/subarrayDivision1/bin/Debug/net8.0/subarrayDivision1.dll
+/opt/c_sharp/subarrayDivision1/bin/Debug/net8.0/subarrayDivision1.pdb
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.GeneratedMSBuildEditorConfig.editorconfig
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.AssemblyInfoInputs.cache
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.AssemblyInfo.cs
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.csproj.CoreCompileInputs.cache
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.sourcelink.json
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.dll
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/refint/subarrayDivision1.dll
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.pdb
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/subarrayDivision1.genruntimeconfig.cache
+/opt/c_sharp/subarrayDivision1/obj/Debug/net8.0/ref/subarrayDivision1.dll
